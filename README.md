@@ -4,7 +4,7 @@ We Have done Flipkart Sentiment Analysis  to classify positive, negative and nue
 <br><br>
 
 # DashBoard
-Link:- https://anoushkaramel.github.io/anoushkaramel/
+Link:- https://anoushkaramel.github.io/
 ![WhatsApp Image 2022-07-30 at 5 42 58 PM](https://user-images.githubusercontent.com/83651558/181913748-ad5fa626-c0c9-4688-a221-a190390f88ad.jpeg)
 <br>
 
