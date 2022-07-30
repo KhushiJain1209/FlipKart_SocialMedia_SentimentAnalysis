@@ -25,4 +25,7 @@ We Have done Flipkart Sentiment Analysis  to classify positive, negative and nue
 <br>
 
 ## Word Cloud of Positive-Negative Tweets
-<img width="250" alt="word_cloud_positive" src="https://user-images.githubusercontent.com/83651558/181913925-56fea2bb-aab4-4874-b8e9-ea6bc51a5748.png"> "\t" <img width="250" alt="word_cloud_negative" src="https://user-images.githubusercontent.com/83651558/181913965-727cc5ea-f65a-4826-a4ff-479de17d565f.png">
+<img width="250" alt="word_cloud_positive" src="https://user-images.githubusercontent.com/83651558/181913925-56fea2bb-aab4-4874-b8e9-ea6bc51a5748.png">       <img width="250" alt="word_cloud_negative" src="https://user-images.githubusercontent.com/83651558/181913965-727cc5ea-f65a-4826-a4ff-479de17d565f.png">
+
+## Google Trends of FlipKart products
+<img width="857" alt="Google_trends_over time" src="https://user-images.githubusercontent.com/83651558/181917389-e8c2bb3e-5264-46a9-9c35-983217ef1d6d.png">      <img width="300" alt="google_trends_by region" src="https://user-images.githubusercontent.com/83651558/181917365-b3b0d5dd-2ecb-437a-a0be-d8ddf4ffa577.png">     
